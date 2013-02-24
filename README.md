@@ -1,5 +1,5 @@
-WebJar for WEBJAR_NAME
+WebJar for jQuery Navigation Plugin
 
 More info: http://webjars.org
 
-Upstream: WEBJAR_URL
+Upstream: https://github.com/dansdom/plugins-navigation
